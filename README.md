@@ -13,9 +13,10 @@ let me know why and how to fix it. Cheers :)
 Getting Started
 ===============
 
-1. Make sure you have setup Yeoman - visit yeoman.io
-2. ``$ yeoman clean`` Will perform the workaround for handlebars auto building
-3. ``$ yeoman server`` As normal will run with the compiled handlebars and watch for changes
+1. Clone to a folder
+2. Make sure you have setup Yeoman - visit yeoman.io
+3. ``$ yeoman clean`` Will perform the workaround for handlebars auto building
+4. ``$ yeoman server`` As normal will run with the compiled handlebars and watch for changes
 
 
 Credits
