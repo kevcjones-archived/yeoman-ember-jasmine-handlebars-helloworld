@@ -1,7 +1,7 @@
 yeoman-ember-jasmine-handlebars-helloworld
 ==========================================
 
-A Yeoman Ember Scaffolded Boilerplate with Jasmine Unit Testing and Handlebar Templating full wired up and ready to code.
+A Yeoman Ember Scaffolded Boilerplate with Jasmine Unit Testing and Handlebar Templating fully wired up and ready to code.
 
 *Disclaimer* 
 ============
