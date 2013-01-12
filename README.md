@@ -1,14 +1,13 @@
 yeoman-ember-jasmine-handlebars-helloworld
 ==========================================
 
-My personal hello world project using yeoman to create an Ember project with jasmine testing and handlebar compilation. 
-I thought this would good for me to put up as a starting point for other projects.
+A Yeoman Ember Scaffolded Boilerplate with Jasmine Unit Testing and Handlebar Templating full wired up and ready to code.
 
 *Disclaimer* 
 ============
-All i've done here is pull together something that i can start from. 
-I make no claim i've added anything and i'm still getting used to git, so if i've wronged someone just 
-let me know why and how to fix it. Cheers :)
+All i've done here is pull together something that i can start from and wired up Handlebars and Jasmine to work with Yeoman,
+Yeoman did 95% for me, it just took a little searching to find the edits needed to complete the setup so that Jasmine and Handlebars
+are being used straight away. 
 
 Getting Started
 ===============
@@ -22,7 +21,7 @@ Getting Started
 Credits
 =======
 
-* https://github.com/jcarver989/phantom-jasmine - allowed me to see where i needed to update to support Jasmine
-* https://github.com/dgeb/yeoman-ember-basic-example - where i learnt which node module i was missing
-* https://github.com/dgeb/grunt-ember-templates - where i learnt why i had to use 0.2.0 for now until Yeoman updates
+* https://github.com/jcarver989/phantom-jasmine - gave me a console reporter for Jasmine
+* https://github.com/dgeb/yeoman-ember-basic-example - was where i picked up the handlebars wiring needed
+* https://github.com/dgeb/grunt-ember-templates - where i learnt Yeoman runs on an older Grunt so i needed 0.2.0 of the NPM module.
 
