@@ -13,8 +13,8 @@ let me know why and how to fix it. Cheers :)
 Getting Started
 ===============
 
-1. Clone to a folder
-2. Make sure you have setup Yeoman - visit yeoman.io
+1. ``$ git clone https://github.com/KevCJones/yeoman-ember-jasmine-handlebars-helloworld.git`` - Clone it
+2. ``$ curl -L get.yeoman.io | bash`` Make sure you have setup Yeoman - visit yeoman.io for more info
 3. ``$ yeoman clean`` Will perform the workaround for handlebars auto building
 4. ``$ yeoman server`` As normal will run with the compiled handlebars and watch for changes
 
