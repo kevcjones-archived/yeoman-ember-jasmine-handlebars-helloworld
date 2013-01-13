@@ -1,0 +1,17 @@
+
+
+$background-color: #ff0000;
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: $background-color;
+  font-size: 62.5%;
+}
+
+//overrides the color inside the import
+$font-color: #bbbbbb ;
+
+@import "text/text";
