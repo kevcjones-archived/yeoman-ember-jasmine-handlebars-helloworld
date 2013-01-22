@@ -1,17 +1,20 @@
 
-
-$background-color: #ff0000;
+$background-color: #222222;
+$context-width: 960px;
 
 html {
-  font-size: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 body {
   background-color: $background-color;
-  font-size: 62.5%;
 }
 
-//overrides the color inside the import
-$font-color: #bbbbbb ;
+.container{
+  width:100%;
+  background-color: #737373;
+  margin: 0 auto;
+}
 
 @import "text/text";
