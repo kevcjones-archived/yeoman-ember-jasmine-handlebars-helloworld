@@ -1,3 +1,5 @@
 .idea*
 .svn*
 .htaccess*
+.sass-cache
+temp/*
