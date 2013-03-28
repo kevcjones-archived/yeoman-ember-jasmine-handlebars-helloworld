@@ -1,6 +1,9 @@
 yeoman-ember-jasmine-handlebars-helloworld
 ==========================================
 
+Disclaimer : This was made when yeoman was v0.9.6... since then its updated and no uses a 'yo' package instead. I will probably create a new
+one in the future. Until then i'd see if they fixed the shortfalls in the current v1.0 yourself.
+
 A Yeoman Ember Scaffolded Boilerplate with Jasmine Unit Testing and Handlebar Templating fully wired up and ready to code.
 
 *Disclaimer* 
